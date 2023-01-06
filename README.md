@@ -1,6 +1,5 @@
 # Vintedois Diffusion Cog model
 
-[![Replicate](https://replicate.com/m1guelpf/emoji-diffusion/badge)](https://replicate.com/m1guelpf/emoji-diffusion)
 
 This is an implementation of the 22h [Vintedois Diffusion](https://huggingface.co/22h/vintedois-diffusion-v0-1) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
