@@ -1,8 +1,8 @@
-# Emoji Diffusion Cog model
+# Vintedois Diffusion Cog model
 
 [![Replicate](https://replicate.com/m1guelpf/emoji-diffusion/badge)](https://replicate.com/m1guelpf/emoji-diffusion)
 
-This is an implementation of the Valhalla's [Emoji Diffusion](https://huggingface.co/valhalla/emoji-diffusion) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of the 22h [Vintedois Diffusion](https://huggingface.co/22h/vintedois-diffusion-v0-1) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights [with your Hugging Face auth token](https://huggingface.co/settings/tokens):
 

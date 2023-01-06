@@ -129,7 +129,7 @@ class Predictor(BasePredictor):
         else:
             pipe = self.txt2img_pipe
 
-        pipe.scheduler = make_scheduler(scheduler)
+        # pipe.scheduler = make_scheduler(scheduler)
 
         generator = torch.Generator("cuda").manual_seed(seed)
         output = pipe(
